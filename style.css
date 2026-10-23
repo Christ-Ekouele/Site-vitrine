@@ -1,0 +1,33 @@
+body{
+    background-color: lightyellow;
+    font-family:Arial,sans-serif;
+}
+h1{
+    color:darkblue;
+    text-align:center;
+}
+p{
+    font-size:18px;
+}
+.centre{
+    text-align:center;
+}
+.important{
+    font-weight:bold;
+    color:red;
+}
+h2{
+    color:red;
+}
+img{
+    width:100%;
+    max-width:300px;
+    display:block;
+    margin:0 auto;
+}
+.carte {
+    padding:20px;
+    border:2px solid darkblue;
+    margin:30px;
+    text-align:center;
+}
