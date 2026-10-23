@@ -1,6 +1,30 @@
 body{
-    background-color: lightyellow;
+    /*background-color: lightyellow;*/
     font-family:Arial,sans-serif;
+    background-image: url(cafe.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+section{
+    color:aqua;
+    text-align:center;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+nav a {
+  text-decoration: none;
+  color: darkblue;
+  font-weight: bold;
+}
+footer {
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  padding: 10px;
 }
 h1{
     color:darkblue;
